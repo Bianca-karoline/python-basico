@@ -1,5 +1,5 @@
 """
-DocString
+DocString - para documentação, o interpretador lê mas não exibe
 Python = Linguagem de programação
 Tipo de tipagem = Dinâmica / Forte
 """
