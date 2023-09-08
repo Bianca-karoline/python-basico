@@ -96,3 +96,29 @@ AULAS    TITULO
 045 -    Iteraveis
 
 046 -    For / else
+
+047 -    Adivinhe a palavra secreta
+
+048 -    Dados mutáveis
+
+049 -    For em listas
+
+050 -    For em listas - range
+
+051 -    Introdução ao empacotamento e desempacotamento
+
+052 -    Tuplas
+
+053 -    Enumerate
+
+054 -    Exercício lista de compras
+
+055 -    Imprecisão de ponto flutuante
+
+056 -    Split e join em listas
+
+057 -    Lista de listas
+
+058 -    The Zem of Python, por Tim Peters
+
+059 -     Desempacotamento em chamadas
