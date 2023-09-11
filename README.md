@@ -121,4 +121,30 @@ AULAS    TITULO
 
 058 -    The Zem of Python, por Tim Peters
 
-059 -     Desempacotamento em chamadas
+059 -    Desempacotamento em chamadas
+
+060 -    Desempacotamento em chamadas de métodos e funções
+
+061 -    Calculo do primeiro dígito do CPF
+
+062 -    Calculo do segundo dígito do CPF
+
+063 -    Calculo dos dígitos do CPF
+
+064 -    Gerador de CPF
+
+065 -    Introdução as funções
+
+066 -    Argumentos das funções
+
+067 -    Valores padrão para parâmetros
+
+068 -    Escopo de funções
+
+069 -    Escopo de funções - variaveis locais e globais
+
+070 -    Retorno de funções
+
+071 -    Argumentos não nomeados - *Args
+
+072 -    Exercícios com funções
