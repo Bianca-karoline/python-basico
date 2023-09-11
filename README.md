@@ -148,3 +148,57 @@ AULAS    TITULO
 071 -    Argumentos não nomeados - *Args
 
 072 -    Exercícios com funções
+
+073 -    Higher Order Functions
+
+074 -    Closure e funções que retornam outras funções
+
+075 -    Exercício - funções que multiplicam números recebidos
+
+076 -    Métodos dos dicionários
+
+077 -    Exercício - sistema de perguntas e respostas
+
+078 -    Sets
+
+079 -    Exemplo de uso dos sets
+
+080 -    Exercício - função que encontra a duplicação
+
+081 -    Introdução à função lambda
+
+082 -    Função lambda
+
+083 -    Empacotamento e desempacotamento de dicionários
+
+084 -    Introdução à List comprehension em Python
+
+085 -    List comprehension com mais de um for
+
+086 -    Dictionary Comprehension e Set Comprehension
+
+087 -    Isinstance
+
+088 -    Valores Truthy e Falsy
+
+089 -    Dir, hasattr e getattr
+
+090 -    Generatir expression, iterables e iterators
+
+091 -    Introdução às Generator functions
+
+092 -    Yield from
+
+093 -    Try e except
+
+094 -    Try, except, else e finally
+
+095 -    Raise
+
+096 -    Módulos padrão do python
+
+097 -    Modularização
+
+098 -    Recarregando módulos
+
+099 -    Introdução aos packages
