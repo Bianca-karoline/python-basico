@@ -202,3 +202,41 @@ AULAS    TITULO
 098 -    Recarregando módulos
 
 099 -    Introdução aos packages
+
+100 -    Exercício - ordenação de listas
+
+101 -    Exercício - Adiando execução de funções
+
+102 -    Variáveis livres
+
+103 -    Funções decoradoras
+
+104 -    Mais sobre funções decoradoras
+
+105 -    Decoradores com parâmetros
+
+106 -    Ordem dos decoradores
+
+107 -    Exercício - Unir listas
+
+108 -    Count
+
+109 -    Combinations, Permutations e Product
+
+110 -    Groupby
+
+111 -    Map, partial, GeneratorType e esgotamento de Iterators
+
+112 -    Filter
+
+113 -    Reduce
+
+114 -    Funções recursivas
+
+115 -    Ambientes virtuais
+
+116 -    Leitura e escrita de arquivos
+
+117 -    Arquivos Json
+
+118 -    Parâmetros mutáveis em funções python
