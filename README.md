@@ -240,3 +240,5 @@ AULAS    TITULO
 117 -    Arquivos Json
 
 118 -    Parâmetros mutáveis em funções python
+
+119 -    Exercício - Lista de tarefas com desfazer e refazer
